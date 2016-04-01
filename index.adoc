@@ -41,6 +41,8 @@ NOTE: Items marked with TODO are either not yet supported or a work in progress.
 
 == First Steps with AsciiDoc
 
+LALAL
+
 .Inline markup
 * single quotes around a phrase place 'emphasis'
 * astericks around a phrase make the text *bold*
